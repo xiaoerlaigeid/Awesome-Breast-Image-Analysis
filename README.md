@@ -3,7 +3,7 @@
 ## 2023
 
 ## 2022
-- ### [CNNcombineSVM)Breast Tumor Classification in Digital Tomosynthesis Based on Deep Learning Radiomics(Artificial Intelligence Research and Development)[[paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%252C5&q=Breast+Tumor+Classification+in+Digital+Tomosynthesis+Based+on+Deep+Learning+Radiomics&btnG=#d=gs_qabs&t=1686382785573&u=%2523p%253DuJZ0mSl32TkJ)]
+- [CNNcombineSVM)Breast Tumor Classification in Digital Tomosynthesis Based on Deep Learning Radiomics(Artificial Intelligence Research and Development)[[paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%252C5&q=Breast+Tumor+Classification+in+Digital+Tomosynthesis+Based+on+Deep+Learning+Radiomics&btnG=#d=gs_qabs&t=1686382785573&u=%2523p%253DuJZ0mSl32TkJ)]
 * ### [GLCM]Sources of Image Texture Variation in Tomographic Breast Imaging(SPIE Medical Imaging 2022)[[paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%252C5&q=Sources+of+Image+Texture+Variation+in+Tomographic+Breast+Imaging&btnG=#d=gs_qabs&t=1686382880883&u=%2523p%253DanvyRCzjeloJ)]
 
 
